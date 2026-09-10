@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="BywaStyleEntryWa">2</string>
+    <int name="tittle_size" value="20" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="false" />
+    <string name="BYWA_MUSICWACN">1</string>
+    <boolean name="abu_saleh_toast_profile_cs" value="true" />
+    <boolean name="bYW_Waa_DA_home" value="true" />
+    <int name="key_updown_iconcolor" value="12358298" />
+    <string name="Style_XxxX_Bywa_HM">0</string>
+    <boolean name="BywaStyleESTWALLAM_imgBK" value="true" />
+    <boolean name="bywa_WaesqPrefe_perzd" value="false" />
+    <boolean name="key_hide_unsaved_num" value="false" />
+    <boolean name="HomeBarText_Gactive" value="false" />
+    <boolean name="bywa_rowAnim01_Gactive" value="false" />
+    <boolean name="bYW_Waa_GO_home" value="true" />
+    <boolean name="MetaAI" value="false" />
+    <int name="bywa_NewMenuBackgColor" value="-11777" />
+    <boolean name="abu_saleh_toast_profile_el" value="false" />
+    <boolean name="onlinechat" value="false" />
+    <boolean name="enable_fivminstatus" value="true" />
+    <string name="MdiF_WA">mensajes</string>
+    <int name="HomeCounterBK" value="-4412764" />
+    <string name="BYWA_CallsWA">13</string>
+    <string name="BywaWaentraD">8</string>
+    <boolean name="BywaStyleWAPERFIL_imgBK" value="true" />
+    <boolean name="enable_grp_separationV2" value="true" />
+    <boolean name="Abu_Saleh_Previewbtn" value="false" />
+    <boolean name="abu_saleh_toast_online_cs" value="true" />
+    <boolean name="ModConTextColor_Gactive" value="false" />
+    <int name="SettingsWa_Radius02" value="12" />
+    <boolean name="abu_saleh_toast_status_view" value="true" />
+    <boolean name="wa_txtPrfe_color_Gactive" value="false" />
+    <int name="SettingsWa_Radius03" value="12" />
+    <boolean name="yo_hideinfo" value="true" />
+    <int name="SettingsWa_Radius00" value="12" />
+    <int name="SettingsWa_Radius01" value="12" />
+    <boolean name="BYCMDDprofile001" value="false" />
+    <boolean name="bywa02_borde_waStone_Gactive" value="false" />
+    <boolean name="BYCMDDprofile002" value="false" />
+    <boolean name="tabadgeBKColor_Gactive" value="false" />
+    <boolean name="arch_chats_top" value="true" />
+    <int name="Border_InstGRamBywatxtx002" value="-872427009" />
+    <boolean name="abu_saleh_research" value="false" />
+    <boolean name="onlineDotchat" value="false" />
+    <boolean name="bywaBusq_waLOB_Gactive" value="false" />
+    <int name="ModlastseenColor" value="-5137774" />
+    <boolean name="abu_saleh_image_quality" value="false" />
+    <int name="key_mas_setBackground_quick_GOrient" value="0" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <boolean name="status_wantsendconfirmation" value="true" />
+    <boolean name="ocultLineWa" value="true" />
+    <int name="ModDarkConPickColorNav" value="-2863" />
+    <int name="INFerOscuroElev" value="5" />
+    <int name="bywa_PreffBackColor" value="-2185000" />
+    <int name="bywa_rowW_Newtarje" value="200" />
+    <boolean name="wa_txt_color_Gactive" value="false" />
+    <int name="abu_saleh_toast_online_bc" value="-81438" />
+    <int name="bywaBord_waStoneIOS" value="-1797413" />
+    <boolean name="on_anim" value="false" />
+    <boolean name="Border_InstGRamBywatxtx002_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_typing_view" value="true" />
+    <string name="bywa_BYWaairplane">2</string>
+    <string name="BYWA_GruppWA">9</string>
+    <string name="Chats_icoNmBYwa">11</string>
+    <int name="BywaInstGramElev" value="5" />
+    <int name="sub_tittle_size" value="10" />
+    <string name="BYwatabHM">0</string>
+    <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <int name="InferBywa_Radius00" value="12" />
+    <int name="InferBywa_Radius01" value="12" />
+    <int name="InferBywa_Radius02" value="12" />
+    <int name="InferBywa_Radius03" value="12" />
+    <int name="ModChatColor" value="-5384" />
+    <boolean name="hide_translation_icon" value="false" />
+    <int name="abu_saleh_toast_status_bc" value="-81438" />
+    <string name="Bywa_tap_camera">2</string>
+    <boolean name="HomeCounterBK_Gactive" value="false" />
+    <boolean name="bywaW_wa_contStyle" value="false" />
+    <string name="Bywa_tap_multi">7</string>
+    <boolean name="bywa_cvxcvBackBorderWaC_Gactive" value="false" />
+    <int name="BarrAC_Radius_CVBa" value="12" />
+    <boolean name="abu_saleh_toast_typing_override" value="false" />
+    <int name="bywaORD_waLOB" value="-2113940993" />
+    <int name="bywa_New_EntraD_Back" value="0" />
+    <boolean name="Bywa_ultraFToo" value="true" />
+    <boolean name="abu_saleh_toast_status_cs" value="true" />
+    <boolean name="Bywa_ultraFTRejj" value="true" />
+    <boolean name="abo_saleh_audio_limit_check" value="true" />
+    <int name="MenuPriCard_Radius00" value="28" />
+    <int name="MenuPriCard_Radius02" value="26" />
+    <int name="MenuPriCard_Radius01" value="42" />
+    <string name="BYwa_calls_999">1</string>
+    <string name="key_custom_iconup">0</string>
+    <int name="MenuPriCard_Radius03" value="29" />
+    <boolean name="bywaHome_esqPrin_perzd" value="false" />
+    <boolean name="Img_share_limit" value="true" />
+    <boolean name="hide_fab" value="true" />
+    <string name="BYstatus_stnBywa">1</string>
+    <boolean name="yo_toast_status_override" value="false" />
+    <string name="BywaW_Wa_chts_fab222">6</string>
+    <string name="ui_bottom_style">ios</string>
+    <boolean name="my_name" value="false" />
+    <int name="bywa_NewPreffRadius" value="0" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="pagetitle_picker" value="-1797413" />
+    <int name="abu_saleh_toast_profile_bc" value="-81438" />
+    <boolean name="abu_saleh_toast_profile_override" value="false" />
+    <int name="bywa_tapFTBackRadius" value="7" />
+    <int name="homeByw_Radius03" value="12" />
+    <boolean name="hide_action_a" value="false" />
+    <int name="homeByw_Radius02" value="12" />
+    <boolean name="BYWA_ADM" value="false" />
+    <boolean name="hide_action_b" value="false" />
+    <boolean name="BYCMDD664" value="false" />
+    <int name="homeByw_Radius01" value="12" />
+    <int name="homeByw_Radius00" value="12" />
+    <boolean name="BywaStyleWAAbout_imgBK" value="true" />
+    <string name="launcher_icon_key">53</string>
+    <string name="BYWA_ProfileWAHome">0</string>
+    <boolean name="wa_reloj_wa_stoneBloqueo" value="true" />
+    <int name="bywa_NewMenuBackgColor_GCDir" value="0" />
+    <int name="text_size_pick" value="15" />
+    <boolean name="ConverGifHome" value="true" />
+    <int name="PrefWa_Radius00" value="12" />
+    <int name="PrefWa_Radius01" value="12" />
+    <boolean name="bywa_New_EntraD_Back_Gactive" value="false" />
+    <int name="PrefWa_Radius02" value="12" />
+    <boolean name="WATAG_BYSTN" value="false" />
+    <boolean name="key_updown_bgcolor_Gactive" value="false" />
+    <string name="key_quick_position">top</string>
+    <int name="PrefWa_Radius03" value="12" />
+    <boolean name="abu_saleh_toast_online_Override" value="false" />
+    <boolean name="bywa_esqSettigWa_perzd" value="false" />
+    <int name="IMGElev_back" value="5" />
+    <boolean name="LobPrinN_imgBK" value="true" />
+    <int name="Card_rowimg_back" value="12358298" />
+    <boolean name="hide_action_s" value="false" />
+    <int name="ModFabNormalColor" value="-872427009" />
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="ocultbordeWa" value="true" />
+    <boolean name="bywaPrinNn_waLOB_Gactive" value="false" />
+    <int name="bywa01_Line_waStone" value="-1797413" />
+    <string name="key_admicon_list">0</string>
+    <int name="abu_saleh_toast_typing_tc" value="-1" />
+    <boolean name="bywa_esq_perzStoriesCard" value="false" />
+    <int name="IMGRadius_back" value="12" />
+    <string name="abu_saleh_toast_status_gv">0</string>
+    <string name="BYWA_TAppWA">17</string>
+    <int name="Lobi_NewBackColor" value="-1392508929" />
+    <int name="quickText" value="-1" />
+    <boolean name="ModChaSendBKColor_Gactive" value="false" />
+    <boolean name="tittle_center" value="false" />
+    <boolean name="pagetitle_sel_picker_Gactive" value="false" />
+    <boolean name="bywa_esqiconSentt_perzd" value="false" />
+    <boolean name="BywaVideoSettings" value="false" />
+    <boolean name="bywaBord_waStoneIOS_Gactive" value="false" />
+    <int name="BywaBordePreffCard" value="1" />
+    <boolean name="key_hide_scrolldown" value="false" />
+    <int name="ModDarkConPickColor" value="-2863" />
+    <boolean name="bywa_esq_prizdFlot" value="false" />
+    <int name="ModConTextColor" value="-5137774" />
+    <int name="IconWaBordeCardWa" value="1" />
+    <boolean name="disableDTTL" value="false" />
+    <boolean name="key_with_thumb" value="false" />
+    <int name="abu_saleh_toast_typing_rd" value="23" />
+    <boolean name="Bywa_ultraFTootap3FM" value="true" />
+    <string name="BywaStyleContacWa">4</string>
+    <boolean name="BywaMenuEnabled" value="false" />
+    <int name="IMGborde_back003" value="-2082172197" />
+    <boolean name="bywa_rowAnim02_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_status_el" value="false" />
+    <int name="bywa_NewMenuBackgColor_GC" value="-2082172197" />
+    <int name="ModChatBtnColor" value="-1" />
+    <int name="bywa_rowAnim02" value="-1" />
+    <boolean name="Bywa_ultraHMWA_ProfileeesWa" value="false" />
+    <int name="BordeCardWa" value="1" />
+    <int name="bywa_rowAnim01" value="-1797413" />
+    <boolean name="abu_saleh_key_fab_cahtV2" value="true" />
+    <string name="BYWA_igstories_WAHome">0</string>
+    <string name="bywa_anim_wa">0</string>
+    <boolean name="bywa_storiesText_perzd" value="false" />
+    <int name="Radius_InstGRamBywa" value="12" />
+    <boolean name="BYWA_NM" value="false" />
+    <string name="home_stories_style">view</string>
+    <boolean name="abu_saleh_toast_online_el" value="false" />
+    <boolean name="ModDarkConPickColor_Gactive" value="false" />
+    <string name="bywaconstyle">3</string>
+    <int name="BywaCard_FlofRadius03" value="12" />
+    <int name="InferText_Radius02" value="12" />
+    <int name="bywa_cvxcvBackActvWa" value="1" />
+    <int name="InferText_Radius03" value="12" />
+    <int name="InferText_Radius00" value="12" />
+    <int name="InferText_Radius01" value="12" />
+    <int name="OscuroElevInstaaa" value="5" />
+    <int name="HomeBarText" value="-4412764" />
+    <boolean name="tittle_bold" value="false" />
+    <boolean name="abu_saleh_toast_profile_view" value="false" />
+    <string name="Bywa_Wa_icon_video">6</string>
+    <boolean name="ModHomeMentionIndBackground_Gactive" value="false" />
+    <int name="bywaORD_txtLOB" value="-1797413" />
+    <int name="bywa_MenuNewBackgRadius" value="12" />
+    <int name="StoresFodCard_Radius02" value="12" />
+    <int name="StoresFodCard_Radius03" value="12" />
+    <int name="StoresFodCard_Radius00" value="12" />
+    <int name="StoresFodCard_Radius01" value="12" />
+    <boolean name="IMGborde_back003_Gactive" value="false" />
+    <boolean name="admin_abosaleh" value="false" />
+    <boolean name="read_more" value="false" />
+    <string name="Bywa_layout_icon_llama">17</string>
+    <int name="BordeInstTextCardWa" value="1" />
+    <int name="key_mas_setBackground_quick" value="-339772" />
+    <string name="BYwa_Group_77">23</string>
+    <boolean name="yo_want_nightmode" value="true" />
+    <boolean name="key_updown_bgcolor_check" value="true" />
+    <string name="abu_saleh_toast_online_gv">0</string>
+    <int name="bywa_PreffBackBorderWa" value="-4412764" />
+    <int name="quickBK" value="-81438" />
+    <boolean name="aun_numbywaab" value="false" />
+    <boolean name="BywaStyleWAAboutVideo_BK" value="true" />
+    <boolean name="bywa_cvxcvBackColor_Gactive" value="false" />
+    <boolean name="ModChatEntry_Gactive" value="false" />
+    <string name="bywa_Bywa_tap_busq">2</string>
+    <int name="Bywa_row03" value="7" />
+    <int name="Bywa_row02" value="7" />
+    <int name="bywa_cvxcvBackBorderWaC" value="-1797413" />
+    <boolean name="abu9aleh_media_video_player" value="false" />
+    <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <boolean name="Audio_ears" value="false" />
+    <int name="ModChatEntry" value="-1" />
+    <boolean name="Bywa_ultraPrfi" value="true" />
+    <boolean name="Bywa_banner011" value="false" />
+    <boolean name="Bywa_banner010" value="false" />
+    <int name="Bywa_row04" value="10" />
+    <boolean name="Lobi_NewBackBorderWaC_Gactive" value="false" />
+    <boolean name="txt_xx_colorWa_Gactive" value="false" />
+    <string name="key_status_ui">3</string>
+    <string name="hazar_bozkurt_sesler_gidenmesaj">0</string>
+    <int name="SupeRH_Radius03" value="12" />
+    <int name="SupeRH_Radius02" value="12" />
+    <int name="SupeRH_Radius01" value="12" />
+    <int name="SupeRH_Radius00" value="12" />
+    <int name="BywaCard_FlofRadius00" value="12" />
+    <int name="BywaCard_FlofRadius01" value="12" />
+    <int name="BywaCard_FlofRadius02" value="12" />
+    <boolean name="byws_NewBackgBorderWaMenu_Gactive" value="false" />
+    <boolean name="Bywa_animPer" value="true" />
+    <int name="bywa_New_EntraD_BackBorderWa" value="0" />
+    <boolean name="yo_want_toolbar_cam" value="false" />
+    <int name="ModOnlineColor" value="-5137774" />
+    <boolean name="Bywa_animCirV1" value="true" />
+    <boolean name="abu_saleh_status_and_photo" value="true" />
+    <boolean name="Bywa_animCirV2" value="true" />
+    <int name="bywa_rowWConver_rowGo" value="78" />
+    <boolean name="Bywa_animCirV3" value="true" />
+    <int name="ModChaSendBKColor" value="-1" />
+    <boolean name="Bywa_animCirV4" value="true" />
+    <int name="BordeSettingsCardWa" value="1" />
+    <int name="abu_saleh_toast_profile_tc" value="-1" />
+    <string name="BYWA_ComuDadadWA">11</string>
+    <int name="abu_saleh_toast_online_rd" value="23" />
+    <boolean name="ModContactNameColor_Gactive" value="false" />
+    <boolean name="Hide_div" value="false" />
+    <boolean name="yo_want_ghostmode" value="true" />
+    <int name="bywa_rowW_33Newtap3" value="200" />
+    <boolean name="bywa_NewBackBorderWaIconPref_Gactive" value="false" />
+    <boolean name="key_mas_hide_archive_home" value="false" />
+    <int name="busq_waA002" value="7" />
+    <int name="busq_waA003" value="7" />
+    <boolean name="abu_saleh_forward_tovoice" value="false" />
+    <string name="ui_home_styleV3">ios</string>
+    <int name="CardStoriesBackg_Radius02" value="12" />
+    <int name="CardStoriesBackg_Radius03" value="12" />
+    <int name="CardStoriesBackg_Radius00" value="12" />
+    <int name="CardStoriesBackg_Radius01" value="12" />
+    <int name="ModHomeMentionIconColor" value="-11535" />
+    <int name="BywBaner_NewBackRadius" value="7" />
+    <string name="Bywa_tap_sum">3</string>
+    <int name="Radius_InstGRamBywatxtx" value="7" />
+    <int name="abu_saleh_toast_online_tc" value="-1" />
+    <boolean name="abusaleh_media" value="true" />
+    <boolean name="bubble_more_options_dlg" value="false" />
+    <boolean name="Bywa_banner_profile02" value="true" />
+    <boolean name="Bywa_EntraWaA" value="true" />
+    <boolean name="Bywa_banner_profile01" value="false" />
+    <boolean name="hide_action_mas" value="false" />
+    <boolean name="BYWA_forWA" value="false" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <string name="BYWA_ChatsWA">8</string>
+    <int name="HomeCounterText" value="-2080" />
+    <boolean name="key_mas_setBackground_quick_check" value="true" />
+    <boolean name="bywa_esq_perzd" value="false" />
+    <int name="BywaBordeCardAunMenu" value="1" />
+    <boolean name="direkt_link_degistir" value="false" />
+    <int name="bywa_NewIconPrefRadius" value="12" />
+    <int name="Radius_textBYWa" value="12" />
+    <int name="BGColor" value="-2185000" />
+    <boolean name="bywainfer_esqtext_perzd" value="false" />
+    <boolean name="enable_statuspage_extras" value="true" />
+    <boolean name="key_carousel_view" value="false" />
+    <boolean name="bywaSupeR_esqhome_perzd" value="false" />
+    <boolean name="Bywa_banner01" value="false" />
+    <boolean name="pagetitle_picker_Gactive" value="false" />
+    <boolean name="Bywa_banner03" value="false" />
+    <boolean name="Bywa_banner02" value="false" />
+    <boolean name="Bywa_banner05" value="false" />
+    <boolean name="Bywa_banner04" value="false" />
+    <boolean name="abu_saleh_play_voice_note" value="false" />
+    <boolean name="bywaEntraD_esqBywa_perzd" value="false" />
+    <int name="txt_xx_colorWa" value="-4412764" />
+    <int name="ModChatEmojiColor" value="-1797413" />
+    <boolean name="ModChaSendColor_Gactive" value="false" />
+    <int name="ModChaSendColor" value="-1" />
+    <string name="Bywa_layout_icon_llama_selecc">14</string>
+    <int name="pagetitle_sel_picker" value="-1" />
+    <boolean name="Lobi_NewBackColor_Gactive" value="false" />
+    <boolean name="Bywa_banner07" value="false" />
+    <boolean name="Bywa_banner06" value="false" />
+    <boolean name="Bywa_ultraFTootap3" value="true" />
+    <boolean name="Bywa_banner09" value="false" />
+    <boolean name="Bywa_banner08" value="false" />
+    <int name="Radius_stGranm" value="12" />
+    <boolean name="FakeChatOfficial" value="false" />
+    <int name="tabadgeBKColor" value="-4412764" />
+    <boolean name="home_imgBK" value="true" />
+    <int name="abu_saleh_toast_status_tc" value="-1" />
+    <boolean name="bywa_PreffBackColor_Gactive" value="false" />
+    <int name="bywa_cvxcvBackColor" value="870617819" />
+    <boolean name="BywaStyleWAPERFILESTD_imgBK" value="true" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <int name="key_mas_setBackground_quick_GC" value="-11777" />
+    <boolean name="LobiTtCorner_switch" value="true" />
+    <int name="Lobi_NewBackRadius" value="12" />
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <int name="tabadgeTextColor" value="-11535" />
+    <int name="ModConColor" value="-5384" />
+    <string name="tick_style">altcrayonv2</string>
+    <int name="abu_saleh_toast_profile_rd" value="23" />
+    <boolean name="key_hide_scrollup" value="false" />
+    <boolean name="ModDarkConPickColor_check" value="true" />
+    <boolean name="bywaORD_txtLOB_Gactive" value="false" />
+    <boolean name="ModChatTextColor_Gactive" value="false" />
+    <boolean name="key_quick_view" value="false" />
+    <boolean name="LOBHomeBarIMG_Gactive" value="false" />
+    <int name="bywaEntrD_Radius00" value="12" />
+    <int name="BYwaElevTexttr" value="5" />
+    <int name="bywaEntrD_Radius02" value="12" />
+    <int name="bywaEntrD_Radius01" value="12" />
+    <int name="mas_latarkontak2" value="-2185000" />
+    <int name="Bywa_voluMenWa" value="0" />
+    <int name="bywaEntrD_Radius03" value="12" />
+    <boolean name="PicHead" value="false" />
+    <boolean name="bywaORD_waLOB_Gactive" value="false" />
+    <string name="inconvo_trans_option">in-y</string>
+    <int name="Card_Radius03" value="12" />
+    <int name="Card_Radius02" value="12" />
+    <int name="Card_Radius01" value="12" />
+    <int name="Card_Radius00" value="12" />
+    <int name="bywa_NewIconPrefColor" value="-1728065025" />
+    <int name="IconSetting_Radius03" value="12" />
+    <int name="IconSetting_Radius02" value="12" />
+    <int name="abu_saleh_toast_status_rd" value="23" />
+    <int name="IconSetting_Radius01" value="12" />
+    <int name="IconSetting_Radius00" value="12" />
+    <boolean name="ModConPickColor_Gactive" value="false" />
+    <string name="hazar_bozkurt_sesler_gelenmesaj">0</string>
+    <string name="BYWA_MUSICReci">0</string>
+    <boolean name="Card_rowimg_back_Gactive" value="false" />
+    <int name="main_text" value="17" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <string name="BYWA_StorywaaHome">0</string>
+    <string name="BYwa_community_sTN">4</string>
+    <boolean name="ModDarkConPickColorNav_check" value="true" />
+    <string name="StoneStyleCard">0</string>
+    <int name="LOBHomeBarIMG" value="-1797413" />
+    <boolean name="LobiTtCornerPrimL_switch" value="true" />
+    <int name="bywaPrinNn_waLOB" value="-11777" />
+    <boolean name="bywa_esqBanner01_perzd" value="false" />
+    <int name="ModContactNameColor" value="-5137774" />
+    <boolean name="Audio_sensor" value="true" />
+    <boolean name="MasOption" value="false" />
+    <boolean name="abu_saleh_toast_typing_cs" value="true" />
+    <boolean name="tabadgeTextColor_Gactive" value="false" />
+    <string name="Bywa_Wa_icon_video_secll">7</string>
+    <int name="ElevBywa_backgruound" value="5" />
+    <int name="Banner01_Radius03" value="12" />
+    <boolean name="BGColor_Gactive" value="false" />
+    <int name="Banner01_Radius02" value="12" />
+    <int name="Banner01_Radius01" value="12" />
+    <int name="Banner01_Radius00" value="12" />
+    <string name="StyleCardAjustesBywa">7</string>
+    <boolean name="ModChatEmojiColor_Gactive" value="false" />
+    <boolean name="ModChatBtnColor_Gactive" value="false" />
+    <boolean name="bywa_NewIconPrefColor_Gactive" value="false" />
+    <boolean name="ModHomeMentionIconColor_Gactive" value="false" />
+    <boolean name="Bywa_ultraHMWA_xxx" value="false" />
+    <int name="bywa_cvxcvBackRadius" value="11" />
+    <int name="stuts_waA003" value="7" />
+    <int name="stuts_waA002" value="7" />
+    <int name="Radius_stn_Infer" value="12" />
+    <boolean name="bywa_New_EntraD_BackBorderWa_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_online_view" value="true" />
+    <boolean name="yo_want_airplanemode" value="true" />
+    <string name="BYwa_ProfileXOXXX">2</string>
+    <boolean name="BYWaConPrinc_imgBK" value="true" />
+    <boolean name="yo_multi_account_menu" value="false" />
+    <boolean name="bYW_HMM_WWe_home" value="true" />
+    <string name="BYWA_StyContWA">0</string>
+    <boolean name="HMeWa_home" value="false" />
+    <boolean name="ModOnlineColor_Gactive" value="false" />
+    <string name="bywa_BYWA_ghost">2</string>
+    <int name="BywaInstGramElevtxtx" value="5" />
+    <boolean name="bywa_esqMenuPri_perzd" value="true" />
+    <string name="Bywa_tap_menu">46</string>
+    <boolean name="key_updown_iconcolor_check" value="true" />
+    <string name="BYwa_Profile_banner">38</string>
+    <int name="abu_saleh_toast_typing_bc" value="-81438" />
+    <string name="key_custom_icondown">0</string>
+    <int name="BarrA_ELV_SUP001" value="5" />
+    <string name="bubble_style">twitter</string>
+    <boolean name="ModChatColor_Gactive" value="false" />
+    <int name="bywaBusq_waLOB" value="-1797413" />
+    <boolean name="wa_anim_WA09" value="true" />
+    <boolean name="wa_anim_WA06" value="true" />
+    <boolean name="wa_anim_WA05" value="true" />
+    <boolean name="wa_anim_WA08" value="true" />
+    <boolean name="wa_anim_WA07" value="true" />
+    <boolean name="bywa_PreffBackBorderWa_Gactive" value="false" />
+    <int name="Banner03_Radius00" value="12" />
+    <boolean name="wa_anim_WA02" value="true" />
+    <int name="Banner03_Radius01" value="12" />
+    <boolean name="wa_anim_WA01" value="true" />
+    <boolean name="wa_anim_WA04" value="true" />
+    <boolean name="wa_anim_WA03" value="true" />
+    <boolean name="HomeCounterText_Gactive" value="false" />
+    <int name="bywa_NewBackBorderWaIconPref" value="-2185000" />
+    <int name="Banner03_Radius02" value="12" />
+    <int name="Radiuss_backgruound" value="12" />
+    <int name="Banner03_Radius03" value="12" />
+    <boolean name="bywa_NewMenuBackgColor_Gactive" value="true" />
+    <string name="BYWaBusqueHM">4</string>
+    <int name="wa_txtPrfe_color" value="-1" />
+    <boolean name="bywa_storiesBackg_perzd" value="false" />
+    <boolean name="Up_size_limit" value="false" />
+    <string name="abu_saleh_toast_profile_gv">0</string>
+    <boolean name="abu9aleh_status_audio" value="false" />
+    <int name="Lobi_NewFabRadius" value="60" />
+    <string name="abu_saleh_toast_typing_gv">0</string>
+    <boolean name="on_shadow_text" value="false" />
+    <int name="Lobi_NewBackBorderWaC" value="-6153" />
+    <boolean name="home_stories_key" value="true" />
+    <int name="bywa02_borde_waStone" value="-1797413" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <int name="ModConPickColor" value="-5384" />
+    <int name="wa_txt_color" value="-5137774" />
+    <string name="Stonee_style">0</string>
+    <int name="byws_NewBackgBorderWaMenu" value="-1797413" />
+    <boolean name="abu_saleh_toast_typing_el" value="false" />
+    <boolean name="key_more_docs_send" value="true" />
+    <boolean name="Bywa_Profileee882" value="true" />
+    <int name="bywa_New_EntraD_Radius" value="12" />
+    <int name="CardStoriesText_Radius03" value="12" />
+    <boolean name="bywa_Bann03esq_perzd" value="false" />
+    <int name="CardStoriesText_Radius01" value="12" />
+    <int name="CardStoriesText_Radius02" value="12" />
+    <boolean name="key_mas_setBackground_quick_Gactive" value="true" />
+    <int name="CardStoriesText_Radius00" value="12" />
+    <boolean name="bywa01_Line_waStone_Gactive" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="abu_saleh_hide_list" value="false" />
+    <boolean name="elapsed_time" value="false" />
+    <boolean name="ModlastseenColor_Gactive" value="false" />
+    <boolean name="bywaInfe_esqInfe_perzd" value="false" />
+    <int name="ModHomeMentionIndBackground" value="-4412764" />
+    <int name="key_updown_bgcolor" value="12358298" />
+    <int name="Bywa_FlotBackgRadius" value="12" />
+    <string name="BYWA_StyContWA01">0</string>
+    <int name="ModChatTextColor" value="-1797413" />
+</map>
